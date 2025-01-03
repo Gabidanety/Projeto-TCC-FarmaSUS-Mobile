@@ -41,7 +41,7 @@ O **FarmaSUS** foi desenvolvido como parte do TCC pela equipe **✨ GLOW**. É u
 
 ## 🎥 Vídeo Demonstrativo
 
-[![Espaço reservado para um vídeo mostrando o aplicativo.](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://youtu.be/ID_DO_VIDEO)
+[Click aqui para assistir o vídeo demosntartivo](https://youtu.be/4yA9iqzI0tM?feature=shared)
 
 ## 🛠️ Como Usar
 
